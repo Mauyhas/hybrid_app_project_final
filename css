@@ -1,0 +1,54 @@
+#findAJobButton{
+    color: green;
+    position: relative;
+    background-image: url('http://sph.umn.edu/site/wp-content/uploads/2013/09/Job-Search-Photo-300x300.jpg');
+    width:250px;
+    height:250px;
+    top: 50%;
+    left: 20%;
+}
+#postAJobButton{
+    color: DodgerBlue ;
+    position: relative;
+    width:250px;
+    height:250px;
+    background-image: url('https://thejobwindow.files.wordpress.com/2014/03/jobwindowjob-fact-friday1.jpg?w=585');
+    top: 50%;
+    left: 30%;
+}
+#GoButton{
+    width:600px;
+    left :25%;
+}
+#postButton{
+    width:600px;
+    left :25%;
+}
+#ACheader{
+    font-size: 200%;
+    font-family: Arial;
+    color:RoyalBlue  ;
+    top:400px;
+    left:200px;
+    font-stretch: ultra-expanded;
+    font-style: oblique;
+   
+}
+#ACheaderExp{
+        font-size: 120%;
+    font-family: Arial;
+    color:RoyalBlue  ;
+    top:400px;
+    left:200px;
+    font-stretch: ultra-expanded;
+    font-style: oblique;
+}
+#jobsTh{
+    font-size : 110%;
+    font-family: Arial;
+    color:RoyalBlue  ;
+}
+#jobsTable{
+    border: 5px RoyalBlue;
+    
+}
